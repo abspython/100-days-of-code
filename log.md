@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 2, 2019 
 **Today's Progress**: Learned some basics of JavaScript from [freeCodeCamp](https://learn.freecodecamp.org).
 
 **Thoughts:** It is very hard for me to use semicolons as I have been coding in Python for a long time period. Also the idea of ``undefined`` behaviour of uninitialised variables is weird to me. But the thing I love that it have increment operator (``i++``,``i--``,etc..) which Python don't have.
